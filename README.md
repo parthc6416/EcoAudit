@@ -35,10 +35,6 @@ and aggregated totals such as **Total E-Waste Logged**.
 | Database   | Supabase (Postgres) via `@supabase/supabase-js` |
 | Hosting    | Vercel                                  |
 
-## Live Demo
-
-**Application:** https://your-project.vercel.app
-
 ## Project structure
 
 ```
