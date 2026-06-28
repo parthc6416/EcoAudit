@@ -1,4 +1,8 @@
 # ♻️ EcoAudit — Community Waste Logger
+![Next.js](https://img.shields.io/badge/Next.js-14-black)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue)
+![Supabase](https://img.shields.io/badge/Supabase-green)
+![Vercel](https://img.shields.io/badge/Deployed-Vercel-black)
 
 EcoAudit is a web app where community members log disposed waste (category +
 weight). To keep the data trustworthy, **every entry is geo-verified**: the app
@@ -30,6 +34,10 @@ and aggregated totals such as **Total E-Waste Logged**.
 | Styling    | Tailwind CSS                            |
 | Database   | Supabase (Postgres) via `@supabase/supabase-js` |
 | Hosting    | Vercel                                  |
+
+## Live Demo
+
+**Application:** https://your-project.vercel.app
 
 ## Project structure
 
